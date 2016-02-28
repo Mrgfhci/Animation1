@@ -26,6 +26,7 @@ public class IbDir extends ImageButton {
             //@Override
             public void touchUp(InputEvent event, float x, float y, int pointer, int button) {
                 //actKnight.sAction = "";
+                actChar.setDir(-1);
             }
         });
     }

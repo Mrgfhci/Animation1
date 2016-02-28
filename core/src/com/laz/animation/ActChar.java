@@ -69,8 +69,12 @@ public class ActChar extends Actor {
         else if(nDir == 2){
             nDy = -1;
         }
-        else {
+        else if (nDir ==3){
             nDx = -1;
+        }
+        else{
+            nDx = 0;
+            nDy = 0;
         }
 
     }

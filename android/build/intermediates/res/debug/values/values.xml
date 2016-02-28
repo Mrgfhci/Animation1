@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Scott/Documents/AndroidStudioProjects/20160216/LibGDX1/Animation1/android/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/dadeeo/Documents/AndroidStudioProjects/LibGDX1a/Animation1/android/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Team LAZ - Animation Scratch</string>
-    <!-- From: file:/C:/Users/Scott/Documents/AndroidStudioProjects/20160216/LibGDX1/Animation1/android/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/dadeeo/Documents/AndroidStudioProjects/LibGDX1a/Animation1/android/res/values/styles.xml -->
     <eat-comment/>
     <style name="GdxTheme" parent="android:Theme">
 		<item name="android:windowBackground">@android:color/transparent</item>
